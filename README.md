@@ -1,14 +1,14 @@
 
 # Basic Auth React
-This is the front-end for `Basic Auth`. This project is built using React v17, for CSS and styling [https://tailwindcss.com/](Tailwind CSS) is used, and for styled components [https://ant.design/](Ant Design) is used.
+This is the front-end for `Basic Auth`. This project is built using React v17, for CSS and styling [Tailwind CSS](https://tailwindcss.com/) is used, and for styled components [Ant Design](https://ant.design/) is used.
 
 This web app has the following features:
 - Create account
 - Login to your registered account
 
-This web app is hosted on [https://www.netlify.com/](Netlify)
+This web app is hosted on [Netlify](https://www.netlify.com/)
 
-The link to this web app is: [basic-auth.jsawant.com](https://basic-auth.jsawant.com/)
+The link to this web app is: [basic-auth.jsawant.com](https://basic-auth.jsawant.com)
 
 I have used my personal domain for this `jsawant.com`
 
@@ -32,6 +32,6 @@ Your app is ready to be deployed!
 
 ### `yarn watch:css`
 
-Runs the build command for [https://tailwindcss.com/](Tailwind CSS).\
+Runs the build command for [Tailwind CSS](https://tailwindcss.com/).\
 This builds tree shaken css file which is imported in the index.html page
 
