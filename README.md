@@ -1,5 +1,5 @@
 
-# Basic Auth React
+# [Basic Auth React](https://basic-auth.jsawant.com)
 This is the front-end for `Basic Auth`. This project is built using React v17, for CSS and styling [Tailwind CSS](https://tailwindcss.com/) is used, and for styled components [Ant Design](https://ant.design/) is used.
 
 This web app has the following features:
