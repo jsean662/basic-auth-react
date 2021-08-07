@@ -73,7 +73,7 @@ export default function Register(props) {
 
     return (
         <div>
-            <div style={{height: "60vh"}} className="flex items-center justify-center -mt-8">
+            <div style={{height: "60vh"}} className="flex items-center justify-center">
                 <div>
                     <div className="flex justify-center">
                         <div>
@@ -141,7 +141,7 @@ export default function Register(props) {
                                 shape="round" 
                                 size="large" 
                                 loading={isLoading}
-                                block>Log In</Button>
+                                block>Register</Button>
                         </div>
                     </div>
 

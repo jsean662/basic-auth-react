@@ -46,7 +46,7 @@ export default function Dashboard(props) {
 
     return (
         <div>
-            <div style={{height: "60vh"}} className="flex items-center justify-center -mt-8">
+            <div style={{height: "60vh"}} className="flex items-center justify-center">
                 <div>
                     <Spin size="large" spinning={isLoading}>
                         <div className="flex justify-center">
