@@ -36,7 +36,7 @@ Runs the build command for [Tailwind CSS](https://tailwindcss.com/).\
 This builds tree shaken css file which is imported in the index.html page
 
 
-### Lighthouse report full report[here](https://github.com/jsean662/basic-auth-react/blob/master/LightHouseReport.pdf)
+### Lighthouse report full report [here](https://github.com/jsean662/basic-auth-react/blob/master/LighthouseReport.pdf)
 ![Lighthouse report](https://github.com/jsean662/basic-auth-react/blob/master/LighthouseReportSummary.png?raw=true)
 
 
